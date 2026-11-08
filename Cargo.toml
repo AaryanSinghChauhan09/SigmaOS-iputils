@@ -1,0 +1,12 @@
+[package]
+name = "sigmaos_iputils"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "SigmaOS iputils component inspired by Linux Mint / Omarchy / Arch Linux."
+
+[dependencies]
+
+[lib]
+name = "sigmaos_iputils"
+path = "src/lib.rs"
