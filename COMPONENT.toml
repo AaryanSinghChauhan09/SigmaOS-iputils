@@ -3,7 +3,7 @@ name = "SigmaOS-iputils"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "iputils component"
+description = "SigmaOS SigmaOS-iputils component"
 upstream = []
 
 [contract]
